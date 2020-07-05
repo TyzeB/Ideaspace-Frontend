@@ -1,4 +1,6 @@
-# ideaspace
+# Ideaspace
+
+A simple idea sharing website. This is the frontend, built with Vue.js.
 
 ## Project setup
 ```
